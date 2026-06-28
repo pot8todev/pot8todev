@@ -1,3 +1,5 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pedro%20Henrique%20de%20Jesus&textBg=false&fontAlign=51&fontAlignY=73&descAlign=50&descAlignY=54&section=header&reversal=true"/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pot8todev&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </p>
