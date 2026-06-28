@@ -92,9 +92,9 @@ Currently, I'm seeking opportunities as a Junior Developer where I can continue 
 
 Add here your best projects:
 
-* Project Name → Brief description.
-* Project Name → Brief description.
-* Project Name → Brief description.
+* MTG_Price_check → web scrapping para pesquisa de decks de magic 
+* Helius.github.io → sistema de check-in/check-out para hotelaria ficticia.
+* SrTesch/SosSystem → colaboração para sistema de gestao de bots para seguradora.
 
 ---
 
